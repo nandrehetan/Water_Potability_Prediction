@@ -1,6 +1,7 @@
 #COURSE PROJ----
 cp<- read.csv("water_potability.csv")
 
+
 #NA values
 str(cp)
 summary(cp)
